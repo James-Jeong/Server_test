@@ -1,0 +1,46 @@
+******************************
+20190826-150739 : server implementation complete
+******************************
+[ MariaDB connection Success ]
+[ MariaDB select database SUCCESS ]
+**********************
+[ 2019-08-26 15:07:39 ]
+[ Server is waiting for request from raspberry_pi host... ]
+[ Server is connected with 112.186.61.246 ]
+[ MariaDB USER Query SUCCESS ]
+[ MariaDB DEVICE Query SUCCESS ]
+[ Server success to receive data from Raspberry_pi! ]
+**********************
+[ 2019-08-26 15:07:39 ]
+[ Server is waiting for request from raspberry_pi host... ]
+[ Server is connected with 112.186.61.246 ]
+[ MariaDB USER Query SUCCESS ]
+[ MariaDB DEVICE Query SUCCESS ]
+[ Server success to receive data from Raspberry_pi! ]
+**********************
+[ 2019-08-26 15:07:39 ]
+[ Server is waiting for request from raspberry_pi host... ]
+[ Server is connected with 112.186.61.246 ]
+[ MariaDB USER Query SUCCESS ]
+[ MariaDB DEVICE Query SUCCESS ]
+[ Server success to receive data from Raspberry_pi! ]
+**********************
+[ 2019-08-26 15:07:39 ]
+[ Server is waiting for request from raspberry_pi host... ]
+[ Server is connected with 112.186.61.246 ]
+[ MariaDB USER Query SUCCESS ]
+[ MariaDB DEVICE Query SUCCESS ]
+[ Server success to receive data from Raspberry_pi! ]
+**********************
+[ 2019-08-26 15:07:39 ]
+[ Server is waiting for request from raspberry_pi host... ]
+[ Server is connected with 112.186.61.246 ]
+[ MariaDB USER Query SUCCESS ]
+[ MariaDB DEVICE Query SUCCESS ]
+[ Server success to receive data from Raspberry_pi! ]
+**********************
+[ 2019-08-26 15:07:39 ]
+[ Server is waiting for request from raspberry_pi host... ]
+*****************************
+20190826-150834 : server(PID : 32752) is terminated
+******************************

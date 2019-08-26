@@ -1,0 +1,22 @@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+20190826-160742 : TCP server implementation complete
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+[ Waiting for Clients ]
+[ Server received data : 28 76 -2.429804 1753 0.000000 ]
+[ Server send data to Database : 28 76 -2.429804 1753 0.000000 ]
+[ Database send data to Server : OK ]
+[ Server received data : 28 76 -2.429804 1751 0.000000 ]
+[ Server send data to Database : 28 76 -2.429804 1751 0.000000 ]
+[ Database send data to Server : OK ]
+[ Server received data : 28 76 -2.429804 1751 0.000000 ]
+[ Server send data to Database : 28 76 -2.429804 1751 0.000000 ]
+[ Database send data to Server : OK ]
+[ Server received data : 28 76 -2.429804 1751 0.000000 ]
+[ Server send data to Database : 28 76 -2.429804 1751 0.000000 ]
+[ Database send data to Server : OK ]
+[ Server received data : 28 76 -2.429804 1750 0.830078 ]
+[ Server send data to Database : 28 76 -2.429804 1750 0.830078 ]
+[ Database send data to Server : OK ]
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+20190826-160836 : TCP server(PID : 3054) is terminated
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
