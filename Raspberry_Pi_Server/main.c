@@ -9,8 +9,8 @@
 #include "Processing.h"
 
 #define MAXCLIENT	10
-#define PORT        8000
-#define SERVER_PORT	5000
+#define PORT        
+#define SERVER_PORT	
 
 void* ClientHandler(void* arg){
 	pthread_detach(pthread_self());
@@ -23,7 +23,7 @@ void* ClientHandler(void* arg){
 
 	struct sockaddr_in server_addr;
 	char buf_from_server[BUFSIZE];
-	const char* saddr = "3.15.207.197";
+	const char* saddr = "";
 	int s = 0; int n = 0;
 
 	bzero((char*)(&server_addr), sizeof(server_addr));
